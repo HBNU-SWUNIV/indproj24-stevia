@@ -5,7 +5,7 @@
  - 박현주 교수님
 
 ### 기업체 
- - 서민석 대표
+ - (주)에셈블
 
 ### 참여학생
  - 30231540 김민서 
@@ -25,6 +25,12 @@
   - 수기 명부 관리 부담
   
 ## System Design
+- 데이터베이스 ERD
+<br/><br/>
+<img width=“50%” alt="ERD" src="https://github.com/user-attachments/assets/5eff45bf-a035-48a9-add4-d6c74668ad7e">
+assets/1c807511-0228-4832-ae8f-5bf25292f5b3)
+<br/><br/>
+
   - ### System Requirements
     - 수기로 작성되는 명부의 관리 부담을 줄이는 시스템
     - 키 대여 및 반납 기록 관리에 확실한 시스템
@@ -34,11 +40,23 @@
   - ### UI/UX
      - 학번, 비밀번호 로그인
        <br/><br/>
-       <img width="453" alt="스크린샷 2024-10-24 오전 1 10 34" src="https://github.com/user-attachments/assets/4b1c2911-91dc-4079-ba99-e1bafcdccbf7">
-       <br/><br/>
+<img width="50%" alt="로그인" src="https://github.com/user-attachments/assets/db330b23-fd90-484e-990d-e6bacb2d8d4f">
+<br/><br/>
      - 키 대여 및 반납 버튼 예약 현황
        <br/><br/>
-       <img width="475" alt="KakaoTalk_Photo_2024-10-23-11-32-10-1" src="https://github.com/user-attachments/assets/7167198d-54ec-426b-8bf7-00b077c0c34e">
+       <img width="475" alt="예약" src="https://github.com/user-attachments/assets/6771448f-fd17-4902-abba-9e678bbd902e">
        <br/><br/>
+       
   - ### MAIN 서버
- 
+ 	- 강의실 예약 시 요청 응답, 저장 정보
+       <br/><br/>
+	<p>
+<img width="50%" alt="응답" src="https://github.com/user-attachments/assets/f80e50f7-3bec-4396-99e2-ac483899beb4">
+<img width="50%" alt="저장" src="https://github.com/user-attachments/assets/6e7d0c3a-ccbe-48a7-ac06-4ed81f8bf37a">
+	<p/>
+       <br/><br/>
+
+- ### Arudino 결과
+<br/><br/>
+![사물함](https://github.com/user-attachments/assets/e63893a4-44b5-4cf9-9c80-3c224bde9c9d)
+ <br/><br/>
